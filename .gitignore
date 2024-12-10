@@ -29,3 +29,6 @@ coverage/
 # Ignore temporary files
 *.tmp
 *.swp
+
+# Ignore database file
+database.sqlite
